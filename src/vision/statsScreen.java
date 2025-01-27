@@ -107,10 +107,6 @@ public class statsScreen extends JFrame {
 		contentPane.add(txtName);
 		txtName.setColumns(10);
 
-		JLabel label = new JLabel("New label");
-		label.setBounds(104, 82, 46, 14);
-		contentPane.add(label);
-
 		JLabel lblNewLabel_1 = new JLabel("Name");
 		lblNewLabel_1.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel_1.setForeground(Color.WHITE);
